@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string name="this_is_a_bus">This is a bus</string>
+</resources>
